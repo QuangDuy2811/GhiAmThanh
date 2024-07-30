@@ -1,0 +1,24 @@
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\GD_GhiAm.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\GD_GhiAm.exe
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\GD_GhiAm.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.exe
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\Interop.VisioViewer.dll
+c:\users\admin\documents\visual studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\BLL.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\obj\Debug\GD_GhiAm.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\NAudio.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ghiamthanh\GD_GhiAm\bin\Debug\NAudio.xml
+C:\Users\Admin\Desktop\GhiAmThanhMayTinh\GD_GhiAm\bin\Debug\GD_GhiAm.exe.config
+C:\Users\Admin\Desktop\GhiAmThanhMayTinh\GD_GhiAm\obj\Debug\Interop.VisioViewer.dll
+C:\Users\Admin\Desktop\GhiAmThanhMayTinh\GD_GhiAm\obj\Debug\GD_GhiAm.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\GhiAmThanhMayTinh\GD_GhiAm\obj\Debug\GD_GhiAm.exe
+C:\Users\Admin\Desktop\GhiAmThanhMayTinh\GD_GhiAm\obj\Debug\GD_GhiAm.pdb
